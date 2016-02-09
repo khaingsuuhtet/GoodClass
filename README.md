@@ -1,0 +1,2 @@
+# GoodClass
+Greeting
